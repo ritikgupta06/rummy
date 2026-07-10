@@ -52,7 +52,7 @@ export const STORAGE_KEYS = {
 export const API_TIMEOUT = 15000;
 
 export const ROUTES = {
-  SPLASH: '/splash',
+  SPLASH: '/',
   WELCOME: '/welcome',
   LOGIN: '/(auth)/login',
   OTP: '/(auth)/otp',
