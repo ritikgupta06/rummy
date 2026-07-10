@@ -29,6 +29,9 @@
       "eas": {
         "projectId": "28eb2efe-b481-4ff7-bad7-69626859f61a"
       }
+    },
+    "android": {
+      "package": "com.ritik6g.rummyroyale"
     }
   }
 }
